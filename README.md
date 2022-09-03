@@ -8,7 +8,7 @@
 
 ![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojoaopedro&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojoaopedro&layout=compact)](https://github.com/franciscojoaopedro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojoaopedro)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franciscojoaopedro&repo=github-readme-stats)](https://github.com/franciscojoaopedro/github-readme-stats)
 

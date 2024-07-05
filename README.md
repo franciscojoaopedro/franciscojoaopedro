@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Francisco João Pedro ✋
 #### Ngunga Dev
+#### Ngunga Dev
 
 [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ngungadev.hashnode.dev/)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )](https://www.youtube.com/channel/UCsFKJk_Cd4nDYVhlV5Qz3Lg)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
